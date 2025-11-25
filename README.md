@@ -3,7 +3,7 @@
 **NeuroUIT** (Neuro + UI + Tool) est un simulateur de réseaux de neurones artificiels avec interface graphique, développé en C++ avec Qt.
 
 ## Auteur
-Rachid - Licence d'Excellence IA & Ingénierie des Données  
+Rachid ait aissa - M1 IAOC  
 Université Ibn Tofail Kénitra
 
 ## Description
@@ -116,4 +116,4 @@ Le dossier `data/` contient plusieurs datasets pour tester :
 
 ## Licence
 
-Projet académique - Université Ibn Tofail Kénitra
+Projet académique - Université Ibn Tofail Kénitra Rachid ait aissa - M1 IAOC
